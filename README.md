@@ -1,6 +1,3 @@
-# APO2
-
-
 # Titulo del Proyecto
 
 Un párrafo de la descripción del proyecto va aquí.
